@@ -1,4 +1,0 @@
-openai
-scikit-learn
-nltk
-sacrebleu
